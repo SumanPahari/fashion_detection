@@ -1,0 +1,17 @@
+,image_name,x_1,y_1,x_2,y_2,category,category_type,category_type_name,width,height,area,evaluation_status,category_encoding
+170838,img/Frayed_Denim_Gauchos/img_00000021.jpg,32,11,162,232,Gauchos,2,Lower Body,130,221,28730,test,0
+170840,img/Frayed_Denim_Gauchos/img_00000023.jpg,33,96,128,235,Gauchos,2,Lower Body,95,139,13205,test,0
+170846,img/Frayed_Denim_Gauchos/img_00000029.jpg,29,115,106,174,Gauchos,2,Lower Body,77,59,4543,test,0
+170851,img/Frayed_Denim_Gauchos/img_00000034.jpg,1,160,200,300,Gauchos,2,Lower Body,199,140,27860,test,0
+170852,img/Frayed_Denim_Gauchos/img_00000035.jpg,186,105,277,232,Gauchos,2,Lower Body,91,127,11557,test,0
+170853,img/Frayed_Denim_Gauchos/img_00000036.jpg,96,1,206,300,Gauchos,2,Lower Body,110,299,32890,test,0
+170857,img/Frayed_Denim_Gauchos/img_00000040.jpg,65,91,161,259,Gauchos,2,Lower Body,96,168,16128,test,0
+170864,img/Frayed_Denim_Gauchos/img_00000047.jpg,1,1,216,144,Gauchos,2,Lower Body,215,143,30745,test,0
+173205,img/Topstitched_Jodhpurs/img_00000003.jpg,59,97,125,255,Jodhpurs,2,Lower Body,66,158,10428,test,1
+173209,img/Topstitched_Jodhpurs/img_00000007.jpg,54,97,164,287,Jodhpurs,2,Lower Body,110,190,20900,test,1
+173217,img/Topstitched_Jodhpurs/img_00000015.jpg,1,137,233,233,Jodhpurs,2,Lower Body,232,96,22272,test,1
+173219,img/Topstitched_Jodhpurs/img_00000017.jpg,1,197,200,300,Jodhpurs,2,Lower Body,199,103,20497,test,1
+173221,img/Topstitched_Jodhpurs/img_00000019.jpg,71,120,149,287,Jodhpurs,2,Lower Body,78,167,13026,test,1
+173238,img/Topstitched_Jodhpurs/img_00000036.jpg,57,115,158,286,Jodhpurs,2,Lower Body,101,171,17271,test,1
+188218,img/Topstitched_Jodhpurs/img_00000041.jpg,100,98,185,282,Jodhpurs,2,Lower Body,85,184,15640,test,1
+188221,img/Topstitched_Jodhpurs/img_00000044.jpg,39,108,104,273,Jodhpurs,2,Lower Body,65,165,10725,test,1
